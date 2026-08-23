@@ -1,0 +1,17 @@
+{
+  "name": "futari-compatibility",
+  "main": "worker.js",
+  "compatibility_date": "2026-08-18",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "futari-db",
+      "database_id": "b87a76cb-6b53-4f5e-b2ca-b3dfa0ab4c53"
+    }
+  ]
+}
+
